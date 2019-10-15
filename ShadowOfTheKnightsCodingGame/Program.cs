@@ -112,7 +112,7 @@ class Player
 
 
       // the location of the next window Batman should jump to.
-      Console.WriteLine(resX + "" + resY);
+      Console.WriteLine(resX + " " + resY);
     }
   }
 }
